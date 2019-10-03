@@ -7,14 +7,14 @@
 
 .content-mid-header {
   background: #444;
-  width: 80% ;
-  height: 90% ;
+  width: auto ;
+  height: 20% ;
 
 }
 
 .content-container {
-  padding: 20px ;
-  width: 90% ;
+  
+  width: auto ;
   height: 95% ;
    ;
 
@@ -24,8 +24,8 @@
 .content {
   background: #D8D8D8;
   padding: 20px ;
-  width: 89% ;
-  height: 98% ;
+  width: auto;
+  height: 80% ;
   text-align: center ;
   
 }
