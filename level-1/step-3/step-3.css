@@ -2,16 +2,30 @@
 
 .content-mid {
  
+  padding: 80px ;
 }
 
 .content-mid-header {
   background: #444;
+  width: 80% ;
+  height: 90% ;
+
 }
 
 .content-container {
+  padding: 20px ;
+  width: 90% ;
+  height: 95% ;
+   ;
+
 
 }
 
 .content {
   background: #D8D8D8;
+  padding: 20px ;
+  width: 89% ;
+  height: 98% ;
+  text-align: center ;
+  
 }
